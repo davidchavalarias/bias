@@ -1,1 +1,0 @@
-$("#title").html("<h1>Biases in biomedical research (Chavalarias and Ioannidis, <i>JCE</I> 2010)</h1><a href=indexBias1958_1969_1978.html>1969-1978</a> | <a href=indexBias1958_1979_1988.html>1979-1988</a> | <a href=indexBias1958_1989_1998.html>1989-1998</a> | <a href=indexBias1958_1999_2008.html>1999-2008</a>"); 
